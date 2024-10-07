@@ -8,8 +8,8 @@ Steps for Setting Up a Web Server on cloud VM
    -  Capture a screenshot showing successful SSH login.
 
 2. Clone the Repo from Taskten (HTML Page)
-   - After logging into the VM, clone your taskten repository from GitHub:
-     "git clone https://github.com/yourusername/taskten.git"
+   - After logging into the VM, clone your tasktwelve repository from GitHub:
+     "git clone https://github.com/yourusername/tasktwelve.git"
 
 3. Copy the Cloned Files to Apache Web Server Root Directory
    - Copy the HTML and related files from the cloned taskten folder to the root directory of the Apache web server:
